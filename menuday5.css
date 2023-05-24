@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(foodmenu.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.nav{
+    color:#fff;
+    text-decoration: none;
+    font-size: 15px;
+}
+.T{
+    color: #FFF;
+}
+.M{
+    color: #FFF;
+}
+.A{
+    text-align: CENTER;
+}
